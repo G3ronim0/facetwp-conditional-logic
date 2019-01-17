@@ -6,6 +6,8 @@ Version: 1.3.0
 Author: FacetWP, LLC
 Author URI: https://facetwp.com/
 GitHub URI: facetwp/facetwp-conditional-logic
+Text Domain: facetwp-conditional-logic
+Domain Path: /languages
 */
 
 defined( 'ABSPATH' ) or exit;
